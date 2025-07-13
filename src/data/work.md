@@ -63,7 +63,7 @@ work:
     volunteering: true
 
   - company: Discord Bug Bounty Program (Hackerone)
-    brandIcon: /portfolio/dbugbounty-logo.png
+    logo: /portfolio/dbugbounty-logo.png
     role: Program Member / Bug hunter
     dates: Sep 2024 – April 2025
     location: Remote

@@ -1,7 +1,7 @@
 ---
 work:
   - company: Valorant Romania
-    logo:
+    logo: /portfolio/valorantromania-logo.png
     dates: August 2025 - Present
     location: Remote
     volunteering: true

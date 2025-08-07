@@ -2,6 +2,7 @@
 work:
   - company: Valorant Romania
     logo: /portfolio/valorantromania-logo.png
+    role: Community Consultant
     dates: August 2025 - Present
     location: Remote
     volunteering: true

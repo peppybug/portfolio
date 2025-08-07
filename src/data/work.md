@@ -1,5 +1,11 @@
 ---
 work:
+  - company: Valorant Romania
+    logo:
+    dates: August 2025 - Present
+    location: Remote
+    volunteering: true
+  
   - company: Medal.tv (Medal)
     logo: /portfolio/medal-logo.png
     role: Software Tester / Bug hunter (Freelance)

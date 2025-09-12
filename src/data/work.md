@@ -1,6 +1,6 @@
 ---
 work:
-   - company: Medal.tv (Medal)
+  - company: Medal.tv (Medal)
     logo: /portfolio/medal-logo.png
     role: Software Tester / Bug hunter (Freelance)
     dates: May 2025 – Present

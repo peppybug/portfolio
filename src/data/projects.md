@@ -22,11 +22,11 @@ title: Projects
     - label: Discord Invite
       url: https://discord.gg/ericparker
 
-- title: Maki.gg Support Team
-  description: Support & Moderator for maki.gg, a leading all-in-one Discord bot used by over 130 million users. Responsible for user support, handling tickets, and using advanced moderation tools to maintain a friendly and helpful server experience.
-  tech: [Moderation, Ticket Support, Community Management]
+- title: Medal
+  description: Support Moderator & Community Quality Assurance Tester for Medal, where I am helping to support and maintain a vibrant, gaming-focused community. Ensuring a safe, welcoming environment where creators and players can share clips, connect, and celebrate their favorite gaming moments.
+  tech: [Moderation, Support, Bug Hunting]
   links:
     - label: Discord Invite
-      url: https://discord.gg/maki
+      url: https://discord.gg/medal
     - label: Website
-      url: https://maki.gg
+      url: https://medal.tv

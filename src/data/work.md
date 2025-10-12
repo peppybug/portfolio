@@ -64,5 +64,5 @@ work:
     role: Translator Korean
     dates: Jan 2024 – April 2024
     location: Remote
-    volunteering: true
+    
 ---

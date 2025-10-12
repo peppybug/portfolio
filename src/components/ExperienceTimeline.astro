@@ -42,14 +42,19 @@ const groupedWork = workList.reduce((acc, item) => {
   if (found) {
     found.roles.push({ role: item.role, dates: item.dates, volunteering: item.volunteering });
     if (!found.location && item.location) found.location = item.location;
+    if (!found.badge && item.badge) found.badge = item.badge; // add this line
   } else {
     acc.push({
       company: item.company,
       logo: item.logo,
       brandIcon: item.brandIcon,
       location: item.location,
+      badge: item.badge, // add this line
       roles: [{ role: item.role, dates: item.dates, volunteering: item.volunteering }],
     });
+  }
+  return acc;
+}, [] as GroupedWork[]);
   }
   return acc;
 }, [] as GroupedWork[]);

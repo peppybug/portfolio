@@ -12,7 +12,7 @@ work:
     badge: /portfolio/verified-badge.png
     role: Helper Moderator Program member
     dates: June 2025 – September 2025
-    location: Remote (Discord Server)
+    location: Remote
   
 
   - company: Lego Ninjago
@@ -20,7 +20,7 @@ work:
     badge: /portfolio/partner-badge.png
     role: Community Moderator
     dates: June 2025 – Present
-    location: Remote (Discord Server)
+    location: Remote 
     
   - company: Maki.gg
     logo: /portfolio/maki-logo.png
@@ -39,7 +39,7 @@ work:
     badge: /portfolio/verified-badge.png
     role: Support Staff (German and Dutch)
     dates: Feb 2025 – May 2025
-    location: Remote (Discord Server)
+    location: Remote
     
 
   - company: Drachen Kult
@@ -47,7 +47,7 @@ work:
     badge: /portfolio/partner-badge.png
     role: Event Team member
     dates: Dec 2024 – Present
-    location: Remote (Discord Server)
+    location: Remote
     
 
   - company: Discord Bug Bounty Program (Hackerone)

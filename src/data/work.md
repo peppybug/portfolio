@@ -51,7 +51,7 @@ work:
     
 
   - company: Discord Bug Bounty Program (Hackerone)
-    logo: /portfolio/dbugbounty-logo.png
+    logo: /portfolio/discordbugbounty.png
     badge: /portfolio/verified-badge.png
     role: Program Member / Security Bug Researcher
     dates: Sep 2024 – April 2025

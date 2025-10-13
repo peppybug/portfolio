@@ -32,13 +32,13 @@ work:
   - company: Maki.gg
     logo: /portfolio/maki-logo.png
     role: Support Staff & Community Moderator
-    dates: April 2025 – Present
+    dates: April 2025 – October 2025
     location: Remote
   
   - company: Eric Parker
     logo: /portfolio/ericparker-logo.png
     role: Partner & Community Moderator
-    dates: Jan 2025 – Present
+    dates: Jan 2025 – October 2025
     location: Remote
    
   - company: Probot

@@ -26,7 +26,7 @@ work:
     logo: /portfolio/lego-ninjago-logo.png
     badge: /portfolio/partner-badge.png
     role: Community Moderator
-    dates: June 2025 – Present
+    dates: June 2025 – October 2025
     location: Remote 
     
   - company: Maki.gg

@@ -1,5 +1,12 @@
 ---
 work:
+  - company: Fxtch Cord
+    logo: /portfolio/fxtchcord-logo.png
+    badge: /portfolio/verified-badge.png
+    role: Community Moderator
+    dates: October 2025 - Present
+    location: Remote
+  
   - company: Medal
     logo: /portfolio/medalnew-logo.png
     badge: /portfolio/verified-badge.png

@@ -10,7 +10,7 @@ work:
   - company: Discord Games Lab
     logo: /portfolio/dgl-logo.png
     badge: /portfolio/verified-badge.png
-    role: Helper Moderator Program member
+    role: Helper Moderator
     dates: June 2025 – September 2025
     location: Remote
   

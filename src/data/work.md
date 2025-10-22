@@ -3,7 +3,7 @@ work:
   - company: Access Accessors (Project by Discord)
     logo: /portfolio/access-icon.png
     badge: /portfolio/verified-badge.png
-    role: Member
+    role: Project Member
     dates: March 2025 - Present
     location: Remote
   
@@ -64,11 +64,11 @@ work:
     location: Remote
     
 
-  - company: Discord Bug Bounty Program (Hackerone)
+  - company: Discord Bug Bounty Program (H1 and Bugcrowd)
     logo: /portfolio/discordbugbounty.png
     badge: /portfolio/verified-badge.png
     role: Program Member / Security Bug Researcher
-    dates: Sep 2024 – April 2025
+    dates: Sep 2024 – Present
     location: Remote
     
 

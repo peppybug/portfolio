@@ -1,5 +1,12 @@
 ---
 work:
+  - company: Access Accessors (Project by Discord)
+    logo: /portfolio/access-icon.png
+    badge: /portfolio/verified-badge.png
+    role: Member
+    dates: March 2025 - Present
+    location: Remote
+  
   - company: Fxtch Cord
     logo: /portfolio/fxtchcord-logo.png
     badge: /portfolio/verified-badge.png

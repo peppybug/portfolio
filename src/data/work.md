@@ -17,7 +17,7 @@ work:
   - company: Medal
     logo: /portfolio/medalnew-logo.png
     badge: /portfolio/verified-badge.png
-    role: Support Moderator & Community Quality Assurance Tester
+    role: Moderator & Community Quality Assurance Tester
     dates: May 2025 – Present
     location: Remote
     

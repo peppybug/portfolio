@@ -46,7 +46,3 @@ Welcome to **PeppyBug's** personal portfolio! This site showcases PeppyBug's wor
 This portfolio is a personal project intended for **PeppyBug’s** use authorized by the.melon. Feel free to draw inspiration, but please don't directly copy or deploy it as your own without permission. ❤️
 
 
-## ⭐️ Show Support
-
-
-Like this project? Show your support by starring it on original [GitHub Repo](https://github.com/themelone2/portfolio-v2)!

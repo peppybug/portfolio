@@ -1,6 +1,6 @@
 # 🌐 PeppyBug's Portfolio – Powered by Astro
 
-Welcome to **PeppyBug's** personal portfolio! This site showcases PeppyBug's work, projects, and professional background. Forked from the original [Melon Portfolio](https://themelon.live), it's built with [Astro](https://astro.build) for a fast, responsive, and modern user experience, with clean animations and accessibility at its core.
+Welcome to **PeppyBug's** personal portfolio! This site showcases PeppyBug's work, projects, and professional background. It's built with [Astro](https://astro.build) for a fast, responsive, and modern user experience, with clean animations and accessibility at its core.
 
 ---
 
@@ -47,5 +47,6 @@ This portfolio is a personal project intended for **PeppyBug’s** use authorize
 
 
 ## ⭐️ Show Support
+
 
 Like this project? Show your support by starring it on original [GitHub Repo](https://github.com/themelone2/portfolio-v2)!

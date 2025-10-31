@@ -1,5 +1,11 @@
 ---
 work:
+  - company: RV There Yet?
+    logo: /portfolio/rvthereyet-logo.png
+    role: Moderator
+    dates: October 2025 - Present
+    location: Remote
+  
   - company: Access Accessors (Project by Discord)
     logo: /portfolio/access-icon.png
     badge: /portfolio/verified-badge.png

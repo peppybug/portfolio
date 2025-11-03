@@ -2,6 +2,7 @@
 work:
   - company: RV There Yet?
     logo: /portfolio/rvthereyet-logo.png
+    badge: /portfolio/verified-badge.png
     role: Moderator
     dates: October 2025 - Present
     location: Remote

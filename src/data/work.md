@@ -1,5 +1,12 @@
 ---
 work:
+  - company: Chubby Pixel
+    logo: /portfolio/chubbypixel-logo.png
+    badge: /portfolio/verified-badge.png
+    role: Server Manager & Moderator
+    dates: October 2025 - Present
+    location: Remote
+     
   - company: RV There Yet?
     logo: /portfolio/rvthereyet-logo.png
     badge: /portfolio/verified-badge.png
